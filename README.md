@@ -62,18 +62,4 @@ This project includes multiple visualizations:
 - Launch proactive retention campaigns before **Q4**
 
 ---
-
-## 📂 Project Files
-- `Bank_Churn_Analysis.xlsx` → Full dashboard with pivot tables  
-- `Dataset.xlsx` → Raw dataset  
-
----
-
-## 👨‍💻 Author
-**Lokesh Mundkar**  
-Data Analyst | Excel & Dashboard Specialist
-
----
-
-## ⭐ If you find this project helpful
-Give it a **star 🌟** on GitHub!
+-
